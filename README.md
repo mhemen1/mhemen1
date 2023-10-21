@@ -7,6 +7,7 @@
     - [News Portal](https://github.com/mhemen1/newsPortal)
     - [XML Notes](https://github.com/mhemen1/Xml)
     - [OOP Login and Register](https://github.com/mhemen1/LoginRegister)
+    - [Vanilla JS Projects](https://github.com/mhemen1/VanillaJS)
   - <b>C++ desktop application </b>
     - [ESports UCP](https://github.com/mhemen1/ntp)
   - <b>Python</b>
