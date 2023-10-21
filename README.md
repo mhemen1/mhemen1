@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 
- - <b>Web development(PHP,JS,HTML,CSS,MySQL) </b>
+ - <b>Web development (PHP,JS,HTML,CSS,MySQL) </b>
     - [News Portal](https://github.com/mhemen1/newsPortal)
     - [XML Notes](https://github.com/mhemen1/Xml)
     - [OOP Login and Register](https://github.com/mhemen1/LoginRegister)
