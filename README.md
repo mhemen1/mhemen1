@@ -13,8 +13,10 @@
     -[Web Scraper](https://github.com/mhemen1/webScraper)
     
 <h2>🌱 Currently learning</h2>
+
 <b>JavaScript</b>
 - React JS, Vue.js
+  
 <b>Ruby</b>
 - Ruby on Rails
 
