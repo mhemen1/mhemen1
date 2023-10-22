@@ -13,7 +13,7 @@
   - <b>C++ desktop application </b>
     - [ESports UCP](https://github.com/mhemen1/ntp)
   - <b>Python</b>
-    - [Web Scraper](https://github.com/mhemen1/webScraper)
+    - [Web Crawler](https://github.com/mhemen1/webCrawler)
     
 <h2>🌱 Currently learning</h2>
 
