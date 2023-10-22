@@ -11,7 +11,7 @@
       
 - <b>Software development </b>
   - <b>C++ desktop application </b>
-    - [ESports UCP](https://github.com/mhemen1/ntp](https://github.com/mhemen1/esportsApp)
+    - [ESports UCP](https://github.com/mhemen1/esportsApp)
   - <b>Python</b>
     - [Web Crawler](https://github.com/mhemen1/webCrawler)
     
