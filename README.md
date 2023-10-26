@@ -1,4 +1,4 @@
-<h1>Hellow W0rld! 👋 I'm Matija! </h1>
+<h1>Hey 👋 I'm Matija! </h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
